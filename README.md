@@ -17,8 +17,7 @@ Simple trainer/cheater Akiba's Trip Undead & Undressed (PC) (Steam).
 ### Continuous Cheats
 1. Run trainer/cheater application
 2. Check appropriate boxes for effects you'd like
-3. Click "Run"
-*(These cheats can be enabled and disabled on the fly)*
+3. Click "Run" *(cheats can be enabled and disabled on the fly)*
 
 ### One-time Cheats
 - Max player stats: Sets player's level to 99, Base Attack and Defense to 2,147,483,647. You take only 1 damage, and deal upwards 6000+
