@@ -68,7 +68,7 @@ namespace AkibasTripItems
                 //}
 
                 canrun = false;
-                thread.Join();
+                if (thread.IsAlive) thread.Join();
             };
         }
         
