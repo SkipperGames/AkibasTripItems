@@ -20,7 +20,7 @@ Simple trainer/cheater Akiba's Trip Undead & Undressed (PC) (Steam). My first tr
 3. Click "Run"
 
 ### One-time Cheats
-- Max player stats: Sets player's level to 99, Base Attack and Defense to 2,147,483,647. You take only 1 damage, and dealth upwards 6000+
+- Max player stats: Sets player's level to 99, Base Attack and Defense to 2,147,483,647. You take only 1 damage, and deal upwards 6000+
 - Max all stripping skills: Sets all 30 stripping skills to max
 
 ## TODO
