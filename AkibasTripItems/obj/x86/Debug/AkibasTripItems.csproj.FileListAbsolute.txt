@@ -1,0 +1,8 @@
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\_CSHARP_FORMS\AkibasTripItems\AkibasTripItems\bin\Debug\AkibasTripItems.exe
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\_CSHARP_FORMS\AkibasTripItems\AkibasTripItems\bin\Debug\AkibasTripItems.pdb
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\_CSHARP_FORMS\AkibasTripItems\AkibasTripItems\obj\x86\Debug\AkibasTripItems.Form1.resources
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\_CSHARP_FORMS\AkibasTripItems\AkibasTripItems\obj\x86\Debug\AkibasTripItems.Properties.Resources.resources
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\_CSHARP_FORMS\AkibasTripItems\AkibasTripItems\obj\x86\Debug\AkibasTripItems.csproj.GenerateResource.Cache
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\_CSHARP_FORMS\AkibasTripItems\AkibasTripItems\obj\x86\Debug\AkibasTripItems.exe
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\_CSHARP_FORMS\AkibasTripItems\AkibasTripItems\obj\x86\Debug\AkibasTripItems.pdb
+C:\Users\Loc\Documents\Visual Studio 2010\Projects\_CSHARP_FORMS\AkibasTripItems\AkibasTripItems\obj\x86\Debug\AkibasTripItems.csprojResolveAssemblyReference.cache
