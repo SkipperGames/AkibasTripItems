@@ -1,5 +1,5 @@
 # AkibasTripItems
-Simple trainer/cheater Akiba's Trip Undead & Undressed (PC) (Steam).
+Simple trainer/cheater for Akiba's Trip Undead & Undressed (PC) (Steam).
 
 [Markdown Basics] (https://help.github.com/articles/markdown-basics/)
 
