@@ -31,3 +31,4 @@ Simple trainer/cheater for Akiba's Trip Undead & Undressed (PC) (Steam).
 * Code needs better handiwork
 * Add hotkeys
 * Thoroughly test for bugs
+* Give appropriate name and icon(s)
