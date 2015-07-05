@@ -27,7 +27,7 @@ Simple trainer/cheater Akiba's Trip Undead & Undressed (PC) (Steam).
 * Get all items, (still working on a list)
 * Filling the encyclopedia
 * Find all partners' affection levels
-* Lower money to actual limit (999,999,999) in case player stops using Infinite money cheat
+* Lower money to actual limit (not Int32.maxvalue) in case player stops using Infinite money cheat
 * Code needs better handiwork
 * Add hotkeys
 * Thoroughly test for bugs
