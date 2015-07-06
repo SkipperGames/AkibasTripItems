@@ -36,7 +36,7 @@ namespace AkibasTripItems
         //private byte[] wcbuffer = new byte[32];
         //private byte[] npcidbuffer = new byte[200 * 4];
 
-        private readonly byte[] MONEY = new byte[4] { 0xff, 0xff, 0xff, 0x7f };
+        private readonly byte[] MONEY = new byte[4] { 0xff, 0xc9, 0x9a, 0x3b };
         private readonly byte[] WEAPON_ATK = new byte[2] { 0x0f, 0x27 };
         private readonly byte[] PLAYER_STATS = new byte[13] { 0xff, 0xff, 0xff, 0x7f, 0xff, 0xff, 0xff, 0x7f, 0xff, 0xff, 0xff, 0x7f, 0x62 };
         private readonly byte[] CLOTHING_DUR = new byte[2] { 0xe7, 0x03 };
@@ -68,6 +68,7 @@ namespace AkibasTripItems
                 //}
 
                 canrun = false;
+                success = true;
                 if (thread.IsAlive) thread.Join();
             };
         }
